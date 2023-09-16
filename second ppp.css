@@ -1,0 +1,124 @@
+body {
+    border: 1px solid black;
+    padding-top: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.enter {
+    text-align: center;
+    border: 2px solid none;
+    width: 350px;
+    height: 450px;
+    display: inline-block;
+    margin-left: 15px;
+    box-shadow: 0px 0px 4px -2px;
+    margin-bottom: 20px;
+    position: relative;
+    top: -30px;
+}
+
+.right {
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+.books {
+    margin: 10px auto 9px 15px;
+    margin-bottom: 0;
+}
+
+.hello {
+    margin-bottom: 15px;
+}
+
+.the {
+    background-color: black;
+    color: white;
+    margin-bottom: 15px;
+    height: 20px;
+    padding: 1px;
+    position: relative;
+}
+
+.how {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: rgb(101, 101, 225);
+}
+
+.gun {
+    color: red;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p1 {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 140px;
+    height: 3px;
+    background-color: red;
+}
+
+.p2 {
+    width: 140px;
+    height: 3px;
+    background-color: rgb(50, 44, 44);
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+}
+
+.cat {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: larger;
+}
+
+.o {
+    font-size: 27px;
+    width: 535px;
+    margin-bottom: 15px;
+}
+
+.i {
+    margin-bottom: 10px;
+}
+
+.pad {
+    position: absolute;
+    padding: 13px 0px;
+    background-color: #c30c0f;
+    top: -17px;
+    left: 8px;
+    font-size: 20px;
+}
+
+.star {
+    width: 100px;
+    height: 20px;
+    margin-top: 5px;
+}
+
+.star3 {
+    width: 40px;
+    height: 15px;
+    position: absolute;
+    top: 190px;
+    left: 5px;
+}
+
+.s3 {
+    width: 40px;
+    height: 15px;
+    right: 5px;
+    top: 190px;
+    position: absolute;
+}
